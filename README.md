@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Umang Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umangsh28" alt="umangsh28" /></a> </p>
+
 - 🔭 I’m currently working on **Uptime App**
 
 - 🌱 I’m currently learning **Learning Full Stack Android Developer**
