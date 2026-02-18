@@ -8,22 +8,22 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 Senior Android Engineer with 4+ years of experience at **Meesho**, building and scaling mobile applications serving **500M+ users**. I specialize in SDK development, internal developer tooling, and driving engineering best practices across the Android team.
 
 **What I do at work (that you won't find here):**
-- 🔒 Architected the **FR Face Recognition SDK** — securing authentication for 50,000+ field operations
-- 🛠️ Built **in-house Crash Detection** and **Event Watcher** developer tools adopted across the Android team
-- 🤖 Pioneered **AI-driven developer tooling** — integrating MCP servers with Crashlytics & GitHub inside Cursor AI
-- ⚡ Optimized app performance via **Baseline Profiles** for 500M+ users
-- � Drove migration from legacy monolith to **Clean Architecture**
+- Architected the **FR Face Recognition SDK** — securing authentication for 50,000+ field operations
+- Built **in-house Crash Detection** and **Event Watcher** developer tools adopted across the Android team
+- Pioneered **AI-driven developer tooling** — integrating MCP servers with Crashlytics & GitHub inside Cursor AI
+- Optimized app performance via **Baseline Profiles** for 500M+ users
+- Drove migration from legacy monolith to **Clean Architecture**
 
 > *Most of my impactful work lives in private repos at Meesho. The repos here are from my learning journey and collaborative projects.*
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
@@ -43,7 +43,7 @@ Senior Android Engineer with 4+ years of experience at **Meesho**, building and 
 
 ---
 
-### � Notable Projects
+### Notable Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -52,23 +52,6 @@ Senior Android Engineer with 4+ years of experience at **Meesho**, building and 
 | [Move-On](https://github.com/Kingbond470/Move-On) | Packers & movers platform with ride booking (collab) | Kotlin |
 | [LissenR](https://github.com/douglesoo7/LissenR) | Motion-controlled media player using accelerometer (collab) | Kotlin |
 | [VoiceIncomeManager](https://github.com/umangsh28/VoiceIncomeManager) | Voice-powered expense tracker with Speech Recognizer API | Kotlin, Room |
-
----
-
-### �📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umangsh28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umangsh28&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=umangsh28&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
-</p>
 
 ---
 
