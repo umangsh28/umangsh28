@@ -1,18 +1,63 @@
-<h1 align="center">Hi 👋, I'm Umang Sharma</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h1 align="center">Umang Sharma</h1>
+<h3 align="center">Senior Android Engineer | SDE-II @ Meesho | Building for 500M+ Users</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umangsh28" alt="umangsh28" /></a> </p>
-
-- 🔭 I’m currently working on **Uptime App**
-
-- 🌱 I’m currently learning **Learning Full Stack Android Developer**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DqBHCbyPaUPVvN_xGeVnO3QXHyK4YKBD/view?usp=sharing](https://drive.google.com/file/d/1DqBHCbyPaUPVvN_xGeVnO3QXHyK4YKBD/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/umang sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umang sharma" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/umang-sharma-a89b95200"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:umang.sharma2802@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+---
+
+### 👨‍💻 About Me
+
+Senior Android Engineer with 4+ years of experience building and scaling mobile applications serving **500M+ users** at Meesho. I specialize in architecting SDKs, building internal developer tools, and driving engineering best practices.
+
+- 🏗️ **Currently:** Architecting SDKs and internal developer tools at Meesho
+- 🔒 Built the **FR Face Recognition SDK** — securing authentication for 50,000+ field operations
+- 🛠️ Created **in-house Crash Detection** and **Event Watcher** tools adopted across the Android team
+- 🤖 Pioneered **AI-driven developer tooling** — integrating MCP servers with Crashlytics & GitHub inside Cursor AI
+- ⚡ Optimized app performance by 10% through **Baseline Profiles** for 500M+ users
+- 📦 Drove migration from legacy monolith to **Clean Architecture**
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+**Architecture:** MVVM • Clean Architecture • Modular Architecture • MVP
+
+**Libraries & Tools:** Retrofit • Room • Coroutines • RxJava • Dagger/Hilt • JUnit • Mockito • Espresso
+
+**AI & Productivity:** Cursor • Firebender • Antigravity • Notebook LLM • MCP Servers
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umangsh28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umangsh28&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=umangsh28&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Open to interesting conversations about Android architecture, developer tools, and AI-powered development workflows.</i>
+</p>
