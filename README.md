@@ -10,14 +10,16 @@
 
 ### 👨‍💻 About Me
 
-Senior Android Engineer with 4+ years of experience building and scaling mobile applications serving **500M+ users** at Meesho. I specialize in architecting SDKs, building internal developer tools, and driving engineering best practices.
+Senior Android Engineer with 4+ years of experience at **Meesho**, building and scaling mobile applications serving **500M+ users**. I specialize in SDK development, internal developer tooling, and driving engineering best practices across the Android team.
 
-- 🏗️ **Currently:** Architecting SDKs and internal developer tools at Meesho
-- 🔒 Built the **FR Face Recognition SDK** — securing authentication for 50,000+ field operations
-- 🛠️ Created **in-house Crash Detection** and **Event Watcher** tools adopted across the Android team
+**What I do at work (that you won't find here):**
+- 🔒 Architected the **FR Face Recognition SDK** — securing authentication for 50,000+ field operations
+- 🛠️ Built **in-house Crash Detection** and **Event Watcher** developer tools adopted across the Android team
 - 🤖 Pioneered **AI-driven developer tooling** — integrating MCP servers with Crashlytics & GitHub inside Cursor AI
-- ⚡ Optimized app performance by 10% through **Baseline Profiles** for 500M+ users
-- 📦 Drove migration from legacy monolith to **Clean Architecture**
+- ⚡ Optimized app performance via **Baseline Profiles** for 500M+ users
+- � Drove migration from legacy monolith to **Clean Architecture**
+
+> *Most of my impactful work lives in private repos at Meesho. The repos here are from my learning journey and collaborative projects.*
 
 ---
 
@@ -35,13 +37,25 @@ Senior Android Engineer with 4+ years of experience building and scaling mobile 
 
 **Architecture:** MVVM • Clean Architecture • Modular Architecture • MVP
 
-**Libraries & Tools:** Retrofit • Room • Coroutines • RxJava • Dagger/Hilt • JUnit • Mockito • Espresso
+**Libraries:** Retrofit • Room • Coroutines • RxJava • Dagger/Hilt • JUnit • Mockito • Espresso
 
 **AI & Productivity:** Cursor • Firebender • Antigravity • Notebook LLM • MCP Servers
 
 ---
 
-### 📊 GitHub Stats
+### � Notable Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [UpTime](https://github.com/umangsh28/UpTime) | Android app to read and listen to books | Kotlin |
+| [Amazon-Prime](https://github.com/chekeAditya/Amazon-Prime) | OTT platform with voice search & watchlist (collab) | Kotlin, Firebase, Retrofit |
+| [Move-On](https://github.com/Kingbond470/Move-On) | Packers & movers platform with ride booking (collab) | Kotlin |
+| [LissenR](https://github.com/douglesoo7/LissenR) | Motion-controlled media player using accelerometer (collab) | Kotlin |
+| [VoiceIncomeManager](https://github.com/umangsh28/VoiceIncomeManager) | Voice-powered expense tracker with Speech Recognizer API | Kotlin, Room |
+
+---
+
+### �📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=umangsh28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
@@ -59,5 +73,5 @@ Senior Android Engineer with 4+ years of experience building and scaling mobile 
 ---
 
 <p align="center">
-  <i>Open to interesting conversations about Android architecture, developer tools, and AI-powered development workflows.</i>
+  <i>Open to conversations about Android architecture, SDK development, and AI-powered developer workflows.</i>
 </p>
